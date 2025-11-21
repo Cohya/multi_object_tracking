@@ -1,0 +1,6 @@
+
+path_to_data_set: C:\Projects\datasets\MOT17\MOT17_dataset
+
+object_detection_model:
+  name: FRCNN # Faster R-CNN (R-CNN stands for region based CNN)
+  
